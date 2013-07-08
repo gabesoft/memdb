@@ -1,3 +1,8 @@
 #memdb#
 
-*In memory database*
+*In memory database (code sample)*
+
+## to run ##
+``$ cd memdb  ``
+``$ npm install ``
+``$ ./bin/membd ``
