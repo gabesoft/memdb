@@ -5,4 +5,4 @@
 ## to run ##
 ``$ cd memdb``  
 ``$ npm install``  
-``$ ./bin/membd``  
+``$ ./bin/memdb``  
